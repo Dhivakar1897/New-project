@@ -46,4 +46,4 @@ while True:
     choise=input("If you want finish,put 'yes', otherwise put enter to continue:")
     if choise=='yes':
         break
-print(list1)
+print("Your List:",list1)
